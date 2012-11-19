@@ -1,6 +1,5 @@
 #!/usr/bin/env node
 var twitter = require('ntwitter');
-var pos = require('pos');
 var lexer = require('./lexer');
 var querystring = require('querystring');
 var sync = require('synchronize');
